@@ -4,8 +4,8 @@ use tauri::command;
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct PBState {
-    songStates: serde_json::Value,
-    currentFlowStep: u32,
+    song_states: serde_json::Value,
+    current_flow_step: u32,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
