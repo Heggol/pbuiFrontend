@@ -1,8 +1,5 @@
-# UI for Picks and Bans
+# Fronend Tauri UI for the Picks and Bans UI
 
-*"npm run tauri dev"* to run development build
+See main repository [here](https://github.com/Heggol/PBUI)
 
-
-## Recommended VSCode extensions
-
-[Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode), [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode), [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+Website Version will eventaully be available at [pbui.net[(https://pbui.net/)
